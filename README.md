@@ -1,5 +1,5 @@
 # 👋 Hi,
-## My Name Ali Haider
+# My Name Ali Haider
 - 👀 I’m interested in VR (Virtual Reality)
 - 🌱 I’m currently learning Three.js and webxr
 <!---
