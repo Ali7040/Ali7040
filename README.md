@@ -14,13 +14,13 @@ You can click the Preview link to take a look at your changes.
 
 # Hi there 👋, I'm Ali Haider!
 
-## About MeMy name is Ali Haider, a BSCS student, and Fullstack web developer. I am passionate about contributing to open-source projects and exploring the realms of AR/VR and AI. Excited to collaborate and learn from the vibrant GitHub community.
+## My name is Ali Haider, a BSCS student, and Fullstack web developer. I am passionate about contributing to open-source projects and exploring the realms of AR/VR and AI. Excited to collaborate and learn from the vibrant GitHub community.
 
 ## Skills
 Some of the skills I'm proficient in include:
 - React | NestJS | NodeJS | GraphQL | ThreeJS
 
-- Open Source Contributor.
+# Open Source Contributor
 
 
   
