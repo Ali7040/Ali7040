@@ -19,9 +19,11 @@ You can click the Preview link to take a look at your changes.
 ## Skills
 Some of the skills I'm proficient in include:
 - React | NestJS | NodeJS | GraphQL | ThreeJS
- 
 
 - Open Source Contributor.
+
+
+  
 ![giphy (9)](https://github.com/Ali7040/Ali7040/assets/81979505/d975e804-1205-4cee-bfcb-87b2826c7b6c)
   
 ## Contact Me
