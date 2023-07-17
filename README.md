@@ -1,4 +1,4 @@
-<!---
+ <!---
 # Hey there! 👋  ,
 # I'm Ali, a frontend developer and computer science student with a passion for creating intuitive and engaging user experiences.
 - 👀 I’m interested in VR (Virtual Reality)
@@ -21,7 +21,7 @@ Some of the skills I'm proficient in include:
 - React | NestJS | NodeJS | GraphQL | ThreeJS
  
 
--Open Source Contributor.
+- Open Source Contributor.
 ![giphy (9)](https://github.com/Ali7040/Ali7040/assets/81979505/d975e804-1205-4cee-bfcb-87b2826c7b6c)
   
 ## Contact Me
