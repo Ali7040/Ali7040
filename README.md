@@ -24,7 +24,8 @@ Some of the skills I'm proficient in include:
 
 
   
-![giphy (9)](https://github.com/Ali7040/Ali7040/assets/81979505/d975e804-1205-4cee-bfcb-87b2826c7b6c)
+  # ![giphy](https://github.com/Ali7040/Ali7040/assets/81979505/bc6a77cd-afac-4433-9d0b-9f8db3b2cd17) 
+  # ![giphy (9)](https://github.com/Ali7040/Ali7040/assets/81979505/d975e804-1205-4cee-bfcb-87b2826c7b6c)     
   
 ## Contact Me
 ### Feel free to reach out to me at alihaider22.mail@gmail.com
