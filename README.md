@@ -20,17 +20,18 @@ You can click the Preview link to take a look at your changes.
 Some of the skills I'm proficient in include:
 - React | NestJS | NodeJS | GraphQL | ThreeJS
 
-# Open Source Contributor
+# Open Source Contributor   
+# ![giphy](https://github.com/Ali7040/Ali7040/assets/81979505/bc6a77cd-afac-4433-9d0b-9f8db3b2cd17) 
 
 
   
-  # ![giphy](https://github.com/Ali7040/Ali7040/assets/81979505/bc6a77cd-afac-4433-9d0b-9f8db3b2cd17) 
+ 
   # ![giphy (9)](https://github.com/Ali7040/Ali7040/assets/81979505/d975e804-1205-4cee-bfcb-87b2826c7b6c)     
   
 ## Contact Me
 ### Feel free to reach out to me at alihaider22.mail@gmail.com
 ### or connect with me on LinkedIn /Twitter.
-### -LinkedIn : https://www.linkedin.com/in/ali-haider-331h/
+### -LinkedIn : https://www.linkedin.com/in/ali-haider7/
 ### -Twitter: https://twitter.com/AliHaid62269545
 
 
