@@ -14,11 +14,11 @@ You can click the Preview link to take a look at your changes.
 
 # Hi there 👋, I'm Ali Haider!
 
-## My name is Ali Haider, a BSCS student, and Fullstack web developer. I am passionate about contributing to open-source projects and exploring the realms of AR/VR and AI. Excited to collaborate and learn from the vibrant GitHub community. 🌱 I’m currently learning machine learning (ML)
+## My name is Ali Haider, a BSCS student, and Fullstack web developer. I am passionate about contributing to open-source projects and exploring the realms of AR/VR and AI. Excited to collaborate and learn from the vibrant GitHub community. 🌱 I’m currently learning machine learning (ML) And DATA SCIENCE
 
 ## Skills
 Some of the skills I'm proficient in include:
-- React | NestJS | NodeJS | GraphQL | ThreeJS
+- React | NestJS | NodeJS | GraphQL | ThreeJS | tailwind
 
 # Open Source Contributor   
 # ![giphy](https://github.com/Ali7040/Ali7040/assets/81979505/bc6a77cd-afac-4433-9d0b-9f8db3b2cd17) 
