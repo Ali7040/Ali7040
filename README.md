@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 
 ## Skills
 Some of the skills I'm proficient in include:
-- React | NestJS | NodeJS | GraphQL | ThreeJS | Tailwind | Next.js
+- React | NestJS | NodeJS | GraphQL | ThreeJS | Tailwind | Next.js | React Native
 
 # Open Source Contributor   
 # ![giphy](https://github.com/Ali7040/Ali7040/assets/81979505/bc6a77cd-afac-4433-9d0b-9f8db3b2cd17) 
