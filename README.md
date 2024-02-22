@@ -8,7 +8,7 @@ I am a Computer Science student pursuing a Bachelor's degree. As a front-end web
 
 * 🖥️  See my portfolio at [MyPortfolio](http://ali-hiader.netlify.app/)
 * ✉️  You can contact me at [ha4219466@gmail.com](mailto:ha4219466@gmail.com)
-* 🚀  I'm currently working on [Chess game in C++](http://github.com/Ali7040)
+<!--* 🚀  I'm currently working on [Chess game in C++](http://github.com/Ali7040) -->
 
 ### Skills
 
