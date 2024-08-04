@@ -6,7 +6,7 @@ Front-end web dev and CS student.
 
 I am a Computer Science student pursuing a Bachelor's degree. As a front-end web developer, I have hands-on experience with technologies such as React, HTML, CSS, JavaScript, TypeScript, Python, and C++. I have actively contributed to open source projects. My interests extend to the fields of machine learning and data science, and I am passionate about solving programming challenges in these domains. I am seeking opportunities to transition from frontend web development to engaging in meaningful projects related to data science and machine learning.
 
-* 🖥️  See my portfolio at [MyPortfolio](http://ali-hiader.netlify.app/)
+* 🖥️  See my portfolio at [MyPortfolio](https://alihaider7.netlify.app)
 * ✉️  You can contact me at [ha4219466@gmail.com](mailto:ha4219466@gmail.com)
 <!--* 🚀  I'm currently working on [Chess game in C++](http://github.com/Ali7040) -->
 
