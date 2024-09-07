@@ -1,3 +1,13 @@
+<p align="center"> 
+  <img src="https://img.shields.io/badge/Consistency%20is%20the%20Key-%231DA1F2.svg?style=for-the-badge&logoColor=white" />
+</p>
+
+<h3 align="center">
+  "In computer science, consistency is more valuable than perfection. It's not the power of your code but the power of your consistency."
+</h3>
+
+
+
 Hi 👋 My name is Ali haider
 ===========================
 
@@ -12,10 +22,33 @@ I am a Computer Science student pursuing a Bachelor's degree. As a front-end web
 * 🧠  I'm learning ML/DL
 * ⚡  leetcode  [leetcode_profile](https://leetcode.com/u/Ali_Haider7/)
 
-<a href="https://www.github.com/Ali7040" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Ali7040?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+  <p align="center">
+  <img src="https://img.shields.io/badge/Problem%20Solving-%23FF5733.svg?style=for-the-badge&logoColor=white" />
+</p>
+
+<h3 align="center">
+  "Solving one problem opens a world of solutions for others. Keep coding, keep solving."
+</h3>
+
+
+<div align="center">
+  <!-- GitHub Followers Badge -->
+  <a href="https://www.github.com/Ali7040" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/github/followers/Ali7040?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
+  </a>
+
+  <!-- Space between the two elements -->
+  <span style="display:inline-block; width: 20px;"></span>
+  
+  <!-- Visitor Counter -->
+  <p align="center"> 
+    🆅🅸🆂🅸🆃🅾🆁 🅲🅾🆄🅽🆃<br>
+    <img src="https://profile-counter.glitch.me/Ali7040/count.svg"/>
+  </p>
+</div>
 
 ### Skills
+
 
 
 <p align="left">
