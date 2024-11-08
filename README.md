@@ -18,7 +18,7 @@ I am a Computer Science student pursuing a Bachelor's degree. As a front-end web
 
 * 🌍  I'm based in Pakistan
 * 🖥️  See my portfolio at [MyPortfolio](http://https://ali-hiader.netlify.app/)
-* ✉️  You can contact me at [alihaider22.mail@gmail.com](mailto:alihaider22.mail@gmail.com)
+* ✉️  You can contact me at [ha4219466@@gmail.com](mailto:ha4219466@gmail.com)
 * 🧠  I'm learning ML/DL
 * ⚡  leetcode  [leetcode_profile](https://leetcode.com/u/Ali_Haider7/)
 
