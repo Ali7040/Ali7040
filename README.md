@@ -17,7 +17,7 @@ Software Engineer
 I am a Computer Science student pursuing a Bachelor's degree. As a front-end web developer, I have hands-on experience with React, HTML, CSS, JavaScript, TypeScript, Python, and C++ technologies. I have actively contributed to open-source projects. My interests extend to machine learning and data science, and I am passionate about solving programming challenges in these domains. I am seeking opportunities to transition from frontend web development to engaging in meaningful projects related to data science and machine learning.
 
 * 🌍  I'm based in Pakistan
-* 🖥️  See my portfolio at [MyPortfolio](http://https://ali-hiader.netlify.app/)
+* 🖥️  See my portfolio at [MyPortfolio](https://ali-hiader.netlify.app/)
 * ✉️  You can contact me at [Ha4219466@gmail.com](mailto:ha4219466@gmail.com)
 * 🧠  I'm learning ML/DL
 * ⚡  leetcode  [leetcode_profile](https://leetcode.com/u/Ali_Haider7/)
