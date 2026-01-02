@@ -14,7 +14,7 @@ Hi 👋 My name is Ali haider
 Software Engineer
 -----------------
 
-I am a Computer Science student pursuing a Bachelor's degree. As a front-end web developer, I have hands-on experience with React, HTML, CSS, JavaScript, TypeScript, Python, and C++ technologies. I have actively contributed to open-source projects. My interests extend to machine learning and data science, and I am passionate about solving programming challenges in these domains. I am seeking opportunities to transition from frontend web development to engaging in meaningful projects related to data science and machine learning.
+I am a Computer Science student pursuing a Bachelor's degree. As a front-end web developer, I have hands-on experience with Angular, React, HTML, CSS, JavaScript, TypeScript, Python, and C++ technologies. I have actively contributed to open-source projects. My interests extend to machine learning and data science, and I am passionate about solving programming challenges in these domains. I am seeking opportunities to transition from frontend web development to engaging in meaningful projects related to data science and machine learning.
 
 * 🌍  I'm based in Pakistan
 * 🖥️  See my portfolio at [MyPortfolio](https://ali-hiader.netlify.app/)
