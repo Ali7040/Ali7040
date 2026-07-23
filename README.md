@@ -1,12 +1,17 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,100:1c1917&height=200&section=header&text=Ali%20Haider&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Frontend%20Dev%20%7C%20ML/DL%20Enthusiast&descAlignY=60&descSize=18&descColor=94d8e8"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,100:1c1917&height=200&section=header&text=Ali%20Haider&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20%7C%20AI%20Engineer%20%7C%20Open%20Source%20Contributor&descAlignY=60&descSize=18&descColor=94d8e8"/>
 
 <!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0891B2&center=true&vCenter=true&width=600&lines=Consistency+is+the+Key+%F0%9F%94%91;Frontend+Dev+%E2%86%92+ML+%2F+Data+Science+%F0%9F%A7%A0;Open+Source+Contributor+%F0%9F%8C%9F;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0891B2&center=true&vCenter=true&width=750&lines=Full-Stack+Software+Engineer;Building+AI-Powered+Products;Open+Source+Contributor;Passionate+About+Startups;Always+Learning.+Always+Building."
+      alt="Typing SVG"
+    />
+  </a>
+</p>
 
 <br/>
 
